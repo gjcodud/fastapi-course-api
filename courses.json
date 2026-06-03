@@ -10,5 +10,11 @@
     "year": "2026",
     "semester": "2",
     "grade": "A+"
+  },
+  {
+    "course_name": "운영체제",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A0"
   }
 ]
